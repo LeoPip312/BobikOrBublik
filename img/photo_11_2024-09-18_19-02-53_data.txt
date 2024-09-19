@@ -1,0 +1,4 @@
+hot dog:
+Coordinates: (136, 224, 676, 986)
+donut:
+Coordinates: (125, 227, 674, 989)

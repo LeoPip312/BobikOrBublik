@@ -1,0 +1,4 @@
+donut:
+Coordinates: (48, 254, 815, 1076)
+cake:
+Coordinates: (47, 248, 813, 1073)

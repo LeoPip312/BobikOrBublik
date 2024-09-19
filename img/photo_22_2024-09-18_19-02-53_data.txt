@@ -1,0 +1,2 @@
+cake:
+Coordinates: (65, 177, 855, 1031)

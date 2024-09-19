@@ -1,0 +1,4 @@
+bear:
+Coordinates: (136, 115, 1032, 756)
+bed:
+Coordinates: (0, 1, 1078, 927)

@@ -1,0 +1,2 @@
+donut:
+Coordinates: (82, 192, 839, 1044)

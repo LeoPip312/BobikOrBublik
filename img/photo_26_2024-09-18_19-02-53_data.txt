@@ -1,0 +1,2 @@
+donut:
+Coordinates: (152, 217, 869, 1031)

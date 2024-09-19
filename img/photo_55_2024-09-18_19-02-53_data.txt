@@ -1,0 +1,4 @@
+dog:
+Coordinates: (158, 139, 1005, 747)
+bed:
+Coordinates: (116, 3, 1045, 960)

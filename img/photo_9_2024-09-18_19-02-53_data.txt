@@ -1,0 +1,2 @@
+donut:
+Coordinates: (74, 250, 814, 948)
