@@ -1,0 +1,2 @@
+person:
+Coordinates: (712, 233, 1168, 738)

@@ -1,0 +1,4 @@
+cat:
+Coordinates: (158, 96, 1062, 826)
+bear:
+Coordinates: (149, 98, 1063, 836)

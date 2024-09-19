@@ -1,0 +1,4 @@
+donut:
+Coordinates: (161, 258, 864, 1097)
+bowl:
+Coordinates: (33, 211, 937, 1150)

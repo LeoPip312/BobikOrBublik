@@ -1,0 +1,4 @@
+dog:
+Coordinates: (172, 123, 1056, 617)
+chair:
+Coordinates: (9, 1, 1091, 960)

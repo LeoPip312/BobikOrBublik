@@ -1,0 +1,4 @@
+bed:
+Coordinates: (0, 0, 1034, 937)
+dog:
+Coordinates: (132, 25, 1021, 776)

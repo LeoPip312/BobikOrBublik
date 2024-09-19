@@ -1,0 +1,2 @@
+donut:
+Coordinates: (139, 157, 838, 1019)

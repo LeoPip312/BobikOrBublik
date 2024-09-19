@@ -1,0 +1,2 @@
+donut:
+Coordinates: (107, 220, 746, 1088)

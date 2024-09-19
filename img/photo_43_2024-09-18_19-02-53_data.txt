@@ -1,0 +1,4 @@
+cake:
+Coordinates: (62, 166, 847, 1003)
+pizza:
+Coordinates: (63, 172, 855, 1003)

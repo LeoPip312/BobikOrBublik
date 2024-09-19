@@ -1,0 +1,4 @@
+dog:
+Coordinates: (192, 234, 1117, 697)
+cat:
+Coordinates: (180, 236, 1137, 694)
